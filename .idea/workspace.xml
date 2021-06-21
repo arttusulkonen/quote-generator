@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1573209-be1d-4c86-ac63-5b4546aab243" name="Default Changelist" comment="add styles for the buttons">
+    <list default="true" id="e1573209-be1d-4c86-ac63-5b4546aab243" name="Default Changelist" comment="add fetch method. and return text to the page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624270248478</updated>
-      <workItem from="1624270249622" duration="6613000" />
+      <workItem from="1624270249622" duration="8081000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1624270405556</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624274378644</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add fetch method. and return text to the page">
+      <created>1624279688852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624279688852</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +132,7 @@
     <MESSAGE value="add basic structure for the project" />
     <MESSAGE value="add styles for 'quote-container'" />
     <MESSAGE value="add styles for the buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="add styles for the buttons" />
+    <MESSAGE value="add fetch method. and return text to the page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fetch method. and return text to the page" />
   </component>
 </project>
